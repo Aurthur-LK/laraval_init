@@ -1,1 +1,1 @@
-# laraval_init
+# laravel_init
